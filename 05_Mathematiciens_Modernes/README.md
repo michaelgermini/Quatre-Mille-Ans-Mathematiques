@@ -10,6 +10,8 @@ L'époque moderne a été marquée par une explosion de découvertes mathématiq
 - [5.4 Évariste Galois](5.4_Galois.md)
 - [5.5 Pierre-Simon Laplace](5.5_Laplace.md)
 - [5.6 Joseph-Louis Lagrange](5.6_Lagrange.md)
+- [5.7 Bernhard Riemann](5.7_Bernhard_Riemann.md)
+- [5.8 Emmy Noether](5.8_Emmy_Noether.md)
 
 ## Vue d'ensemble
 

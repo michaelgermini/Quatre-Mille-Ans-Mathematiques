@@ -10,6 +10,8 @@ L'Europe médiévale et de la Renaissance a été le théâtre d'une révolution
 - [4.4 René Descartes](4.4_Descartes.md)
 - [4.5 François Viète](4.5_Viete.md)
 - [4.6 Johannes Kepler](4.6_Kepler.md)
+- [4.7 Blaise Pascal](4.7_Blaise_Pascal.md)
+- [4.8 Pierre de Fermat](4.8_Pierre_de_Fermat.md)
 
 ## Vue d'ensemble
 
