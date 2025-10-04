@@ -21,25 +21,25 @@ Les **mathématiques africaines** représentent une approche **orale et communau
 ## 📋 **Contenu du chapitre**
 
 ### **00.6.1 Mathématiques éthiopiennes**
-- Système de numération éthiopien
+- [Système de numération éthiopien](0.6.1_Mathematiques_Ethiopiennes.md)
 - Astronomie et calendriers
 - Architecture et géométrie
 - Commerce et comptabilité
 
 ### **00.6.2 Mathématiques du Mali**
-- Empire du Mali et son héritage
-- Techniques de commerce
+- [Empire du Mali et commerce transsaharien](0.6.2_Mathematiques_Mali.md)
+- Techniques de commerce et comptabilité
 - Astronomie et navigation
 - Architecture et urbanisme
 
 ### **00.6.3 Mathématiques orales traditionnelles**
-- Systèmes de comptage oraux
+- [Systèmes de comptage oraux](0.6.3_Mathematiques_Orales_Traditionnelles.md)
 - Techniques de calcul mental
 - Transmission du savoir
 - Applications pratiques
 
 ### **00.6.4 Astronomie et agriculture**
-- Observations astronomiques
+- [Observations astronomiques](0.6.4_Astronomie_Agriculture.md)
 - Calendriers agricoles
 - Prédictions météorologiques
 - Gestion des saisons
@@ -84,10 +84,17 @@ Les **mathématiques africaines** représentent une approche **orale et communau
 
 ## 🎓 **Exercices**
 
-- [Exercices éthiopiens](Exercices_Ethiopiens.md)
-- [Exercices maliens](Exercices_Maliens.md)
-- [Exercices oraux](Exercices_Oraux.md)
-- [Exercices astronomie](Exercices_Astronomie.md)
+- [Exercices complets : Mathématiques africaines](Exercices_Mathematiques_Africaines.md)
+  - Système de numération éthiopien
+  - Commerce transsaharien malien
+  - Calcul mental traditionnel
+  - Calendrier agricole éthiopien
+  - Navigation astronomique malienne
+  - Architecture géométrique éthiopienne
+  - Gestion des ressources hydriques
+  - Astronomie agricole traditionnelle
+  - Commerce et comptabilité traditionnelle
+  - Synthèse des mathématiques africaines
 
 ---
 
