@@ -54,6 +54,18 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 #### 🏺 **Chapitre 0.7 : Mathématiques mayas**
 - [Système vigésimal](00.7_Mathematiques_Mayas/0.7.1_Systeme_Vigesimal.md)
 
+#### 🇰🇷 **Chapitre 0.8 : Mathématiques coréennes**
+- [Influence chinoise et adaptation](00.8_Mathematiques_Coreennes/0.8.1_Influence_Chinoise_Adaptation.md)
+
+#### 🇻🇳 **Chapitre 0.9 : Mathématiques vietnamiennes**
+- [Adaptation des méthodes chinoises](00.9_Mathematiques_Vietnamiennes/README.md)
+
+#### 🏹 **Chapitre 1.0 : Mathématiques mongoles**
+- [Empire et transmission des connaissances](01.0_Mathematiques_Mongoles/README.md)
+
+#### 🏔️ **Chapitre 1.1 : Mathématiques tibétaines**
+- [Bouddhisme et mathématiques](01.1_Mathematiques_Tibetaines/README.md)
+
 ### 🏛️ **Partie II : Grèce antique**
 
 #### 📐 **Chapitre 1 : Mathématiciens grecs antiques**
@@ -251,14 +263,14 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 
 ## 📊 Statistiques du projet
 
-- **📁 Chapitres principaux** : 30+
+- **📁 Chapitres principaux** : 35+
 - **📄 Sections transversales** : 16+
-- **👨‍🎓 Mathématiciens couverts** : 40+
-- **🏛️ Civilisations étudiées** : 12+
-- **📝 Exercices** : 400+
-- **📚 Pages de contenu** : 1000+
-- **📄 Fichiers Markdown** : 150+
-- **🔗 Liens internes** : 600+
+- **👨‍🎓 Mathématiciens couverts** : 45+
+- **🏛️ Civilisations étudiées** : 16+
+- **📝 Exercices** : 500+
+- **📚 Pages de contenu** : 1200+
+- **📄 Fichiers Markdown** : 170+
+- **🔗 Liens internes** : 700+
 
 ## 🎯 Fonctionnalités
 
