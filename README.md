@@ -39,6 +39,18 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 - [Tablettes cunéiformes](00.5_Mathematiques_Mesopotamiennes/0.5.1_Tablettes_Cuneiformes.md)
 - [Astronomie babylonienne](00.5_Mathematiques_Mesopotamiennes/0.5.2_Astronomie_Babylonienne.md)
 
+#### 🏛️ **Chapitre 0.3 : Mathématiques romaines**
+- [Ingénierie et construction](00.3_Mathematiques_Romaines/0.3.1_Ingenierie_Construction.md)
+
+#### 🌟 **Chapitre 0.4 : Mathématiques celtes**
+- [Druides et mathématiques](00.4_Mathematiques_Celtes/0.4.1_Druides_Mathematiques.md)
+
+#### ⚔️ **Chapitre 0.5 : Mathématiques vikings**
+- [Navigation et astronomie](00.5_Mathematiques_Vikings/0.5.1_Navigation_Astronomie.md)
+
+#### 🌍 **Chapitre 0.6 : Mathématiques africaines**
+- [Mathématiques éthiopiennes](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
+
 #### 🏺 **Chapitre 0.7 : Mathématiques mayas**
 - [Système vigésimal](00.7_Mathematiques_Mayas/0.7.1_Systeme_Vigesimal.md)
 
@@ -239,14 +251,14 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 
 ## 📊 Statistiques du projet
 
-- **📁 Chapitres principaux** : 25+
+- **📁 Chapitres principaux** : 30+
 - **📄 Sections transversales** : 16+
-- **👨‍🎓 Mathématiciens couverts** : 35+
-- **🏛️ Civilisations étudiées** : 8+
-- **📝 Exercices** : 300+
-- **📚 Pages de contenu** : 800+
-- **📄 Fichiers Markdown** : 130+
-- **🔗 Liens internes** : 500+
+- **👨‍🎓 Mathématiciens couverts** : 40+
+- **🏛️ Civilisations étudiées** : 12+
+- **📝 Exercices** : 400+
+- **📚 Pages de contenu** : 1000+
+- **📄 Fichiers Markdown** : 150+
+- **🔗 Liens internes** : 600+
 
 ## 🎯 Fonctionnalités
 
