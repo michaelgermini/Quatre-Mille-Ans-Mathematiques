@@ -66,6 +66,14 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 #### 🏔️ **Chapitre 1.1 : Mathématiques tibétaines**
 - [Bouddhisme et mathématiques](01.1_Mathematiques_Tibetaines/README.md)
 
+### 🏰 **Partie VII : Civilisations médiévales**
+
+#### 🏰 **Chapitre 07 : Civilisations médiévales**
+- [Mathématiques perses/iraniennes](07_Civilisations_Medievales/07.1_Mathematiques_Perses/README.md)
+- [Mathématiques byzantines](07_Civilisations_Medievales/07.2_Mathematiques_Byzantines/README.md)
+- [Mathématiques ottomanes](07_Civilisations_Medievales/07.3_Mathematiques_Ottomanes/README.md)
+- [Mathématiques andalouses](07_Civilisations_Medievales/07.4_Mathematiques_Andalouses/README.md)
+
 ### 🏛️ **Partie II : Grèce antique**
 
 #### 📐 **Chapitre 1 : Mathématiciens grecs antiques**
@@ -263,14 +271,14 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 
 ## 📊 Statistiques du projet
 
-- **📁 Chapitres principaux** : 35+
+- **📁 Chapitres principaux** : 40+
 - **📄 Sections transversales** : 16+
-- **👨‍🎓 Mathématiciens couverts** : 45+
-- **🏛️ Civilisations étudiées** : 16+
-- **📝 Exercices** : 500+
-- **📚 Pages de contenu** : 1200+
-- **📄 Fichiers Markdown** : 170+
-- **🔗 Liens internes** : 700+
+- **👨‍🎓 Mathématiciens couverts** : 50+
+- **🏛️ Civilisations étudiées** : 20+
+- **📝 Exercices** : 600+
+- **📚 Pages de contenu** : 1500+
+- **📄 Fichiers Markdown** : 200+
+- **🔗 Liens internes** : 800+
 
 ## 🎯 Fonctionnalités
 
