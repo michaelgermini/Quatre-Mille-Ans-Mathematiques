@@ -1,0 +1,104 @@
+{
+  "name": "quatre-mille-ans-mathematiques",
+  "version": "1.0.0",
+  "description": "Un voyage complet à travers l'histoire des mathématiques, des premières civilisations à la Renaissance européenne",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "markdownlint \"**/*.md\" --ignore node_modules --ignore .git",
+    "lint:fix": "markdownlint \"**/*.md\" --ignore node_modules --ignore .git --fix",
+    "validate-links": "markdown-link-check README.md",
+    "validate-all-links": "find . -name \"*.md\" -not -path \"./node_modules/*\" -not -path \"./.git/*\" | xargs -I {} markdown-link-check {} --config .markdown-link-check.json",
+    "stats": "echo \"Génération des statistiques du projet...\" && node scripts/generate-stats.js",
+    "build": "echo \"Build du projet...\" && npm run lint && npm run validate-all-links",
+    "dev": "echo \"Mode développement activé...\" && npm run lint",
+    "preview": "echo \"Aperçu du projet...\" && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques.git"
+  },
+  "keywords": [
+    "mathématiques",
+    "histoire",
+    "éducation",
+    "pédagogie",
+    "civilisations",
+    "mathématiciens",
+    "science",
+    "apprentissage",
+    "documentation",
+    "markdown",
+    "github",
+    "open-source"
+  ],
+  "author": {
+    "name": "Michael Germini",
+    "email": "michael@germini.info",
+    "url": "https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/issues"
+  },
+  "homepage": "https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.37.0",
+    "markdown-link-check": "^3.11.0"
+  },
+  "dependencies": {},
+  "files": [
+    "README.md",
+    "LICENSE",
+    "CONTRIBUTING.md",
+    "00.5_Mathematiques_Mesopotamiennes/",
+    "00.7_Mathematiques_Mayas/",
+    "01_Mathematiques_Grecques/",
+    "02_Mathematiques_Arabes/",
+    "02_Cosmologie_Mathematique/",
+    "03_Mathematiques_Indiennes/",
+    "04_Mathematiques_Chinoises/",
+    "05_Mathematiciens_modernes/",
+    "06.5_Mathematiques_Japonaises/",
+    "Sections_Transversales/",
+    "07_Annexes.md",
+    ".github/",
+    ".markdownlint.json",
+    ".markdown-link-check.json"
+  ],
+  "directories": {
+    "doc": ".",
+    "test": "tests"
+  },
+  "config": {
+    "markdownlint": {
+      "config": ".markdownlint.json"
+    },
+    "link-check": {
+      "config": ".markdown-link-check.json"
+    }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/michaelgermini"
+  },
+  "contributors": [
+    {
+      "name": "Michael Germini",
+      "email": "michael@germini.info"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Michael Germini",
+      "email": "michael@germini.info"
+    }
+  ]
+}

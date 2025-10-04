@@ -1,0 +1,153 @@
+name: 🔍 CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  # Job de validation des liens
+  validate-links:
+    name: 🔗 Validation des liens
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      
+    - name: 🔧 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: 📦 Install markdown-link-check
+      run: npm install -g markdown-link-check
+      
+    - name: 🔍 Check links in markdown files
+      run: |
+        find . -name "*.md" -not -path "./node_modules/*" -not -path "./.git/*" | \
+        xargs -I {} markdown-link-check {} --config .markdown-link-check.json
+
+  # Job de validation du format Markdown
+  validate-markdown:
+    name: 📝 Validation Markdown
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      
+    - name: 🔧 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: 📦 Install markdownlint
+      run: npm install -g markdownlint-cli
+      
+    - name: 📝 Lint markdown files
+      run: markdownlint "**/*.md" --ignore node_modules --ignore .git
+
+  # Job de validation de la structure
+  validate-structure:
+    name: 📁 Validation de la structure
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      
+    - name: 📁 Check required directories
+      run: |
+        echo "Vérification des répertoires principaux..."
+        test -d "00.5_Mathematiques_Mesopotamiennes" || exit 1
+        test -d "00.7_Mathematiques_Mayas" || exit 1
+        test -d "01_Mathematiques_Grecques" || exit 1
+        test -d "02_Mathematiques_Arabes" || exit 1
+        test -d "02_Cosmologie_Mathematique" || exit 1
+        test -d "03_Mathematiques_Indiennes" || exit 1
+        test -d "04_Mathematiques_Chinoises" || exit 1
+        test -d "05_Mathematiciens_modernes" || exit 1
+        test -d "06.5_Mathematiques_Japonaises" || exit 1
+        test -d "Sections_Transversales" || exit 1
+        echo "✅ Tous les répertoires principaux sont présents"
+        
+    - name: 📄 Check required files
+      run: |
+        echo "Vérification des fichiers principaux..."
+        test -f "README.md" || exit 1
+        test -f "LICENSE" || exit 1
+        test -f "CONTRIBUTING.md" || exit 1
+        test -f "07_Annexes.md" || exit 1
+        echo "✅ Tous les fichiers principaux sont présents"
+
+  # Job de génération de statistiques
+  generate-stats:
+    name: 📊 Génération de statistiques
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      
+    - name: 📊 Generate project statistics
+      run: |
+        echo "## 📊 Statistiques du projet" >> stats.md
+        echo "" >> stats.md
+        echo "### 📁 Structure" >> stats.md
+        echo "- **Répertoires principaux** : $(find . -maxdepth 1 -type d | wc -l)" >> stats.md
+        echo "- **Fichiers Markdown** : $(find . -name "*.md" | wc -l)" >> stats.md
+        echo "- **Lignes de code** : $(find . -name "*.md" -exec wc -l {} + | tail -1 | awk '{print $1}')" >> stats.md
+        echo "" >> stats.md
+        echo "### 📚 Contenu" >> stats.md
+        echo "- **Chapitres** : $(find . -maxdepth 1 -name "*_Mathematiques_*" -o -name "*_Cosmologie_*" -o -name "*_Mathematiciens_*" | wc -l)" >> stats.md
+        echo "- **Sections transversales** : $(find Sections_Transversales -maxdepth 1 -type d | wc -l)" >> stats.md
+        echo "- **Exercices** : $(grep -r "## Exercice" . --include="*.md" | wc -l)" >> stats.md
+        echo "" >> stats.md
+        echo "### 🌍 Couverture" >> stats.md
+        echo "- **Civilisations** : Mésopotamie, Grèce, Monde arabe, Inde, Chine, Japon, Europe" >> stats.md
+        echo "- **Périodes** : 4000 ans d'histoire" >> stats.md
+        echo "- **Langues** : Français (avec possibilité de traduction)" >> stats.md
+        
+    - name: 📤 Upload stats as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: project-stats
+        path: stats.md
+
+  # Job de déploiement (si applicable)
+  deploy:
+    name: 🚀 Déploiement
+    runs-on: ubuntu-latest
+    needs: [validate-links, validate-markdown, validate-structure]
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+    - name: 📥 Checkout
+      uses: actions/checkout@v4
+      
+    - name: 🚀 Deploy to GitHub Pages (placeholder)
+      run: |
+        echo "🚀 Déploiement vers GitHub Pages"
+        echo "Cette étape peut être configurée pour déployer vers GitHub Pages"
+        echo "ou vers un autre service de déploiement selon les besoins"
+
+  # Job de notification
+  notify:
+    name: 📢 Notification
+    runs-on: ubuntu-latest
+    needs: [validate-links, validate-markdown, validate-structure, generate-stats]
+    if: always()
+    
+    steps:
+    - name: 📢 Notify completion
+      run: |
+        if [ "${{ needs.validate-links.result }}" == "success" ] && 
+           [ "${{ needs.validate-markdown.result }}" == "success" ] && 
+           [ "${{ needs.validate-structure.result }}" == "success" ]; then
+          echo "✅ Tous les tests ont réussi !"
+        else
+          echo "❌ Certains tests ont échoué."
+          exit 1
+        fi
