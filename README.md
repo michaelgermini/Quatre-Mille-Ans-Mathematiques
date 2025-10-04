@@ -21,33 +21,67 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 
 ### 🏛️ **Partie I : Civilisations anciennes**
 
+#### 📜 **Introduction**
+- [Introduction générale](00_Introduction.md)
+
+#### 🏺 **Chapitre 0 : Mathématiques égyptiennes**
+- [Papyrus Rhind](00_Mathematiques_Egyptiennes/0.1_Papyrus_Rhind.md)
+- [Papyrus Moscou](00_Mathematiques_Egyptiennes/0.2_Papyrus_Moscou.md)
+- [Système numérique](00_Mathematiques_Egyptiennes/0.3_Systeme_Numerique.md)
+- [Géométrie pratique](00_Mathematiques_Egyptiennes/0.4_Geometrie_Pratique.md)
+- [Astronomie et calendaires](00_Mathematiques_Egyptiennes/0.5_Astronomie_Calendaires.md)
+- [Nombre d'or](00_Mathematiques_Egyptiennes/0.6_Nombre_d_Or.md)
+- [Comparaison moderne](00_Mathematiques_Egyptiennes/Comparaison_Moderne.md)
+- [Exercices égyptiens](00_Mathematiques_Egyptiennes/Exercices_Egyptiens.md)
+- [Exercices nombre d'or](00_Mathematiques_Egyptiennes/Exercices_Nombre_d_Or.md)
+
 #### 📜 **Chapitre 0.5 : Mathématiques mésopotamiennes**
 - [Tablettes cunéiformes](00.5_Mathematiques_Mesopotamiennes/0.5.1_Tablettes_Cuneiformes.md)
 - [Astronomie babylonienne](00.5_Mathematiques_Mesopotamiennes/0.5.2_Astronomie_Babylonienne.md)
-- [Géométrie pratique](00.5_Mathematiques_Mesopotamiennes/0.5.3_Geometrie_Pratique.md)
-- [Système sexagésimal](00.5_Mathematiques_Mesopotamiennes/0.5.4_Systeme_Sexagesimal.md)
 
 #### 🏺 **Chapitre 0.7 : Mathématiques mayas**
 - [Système vigésimal](00.7_Mathematiques_Mayas/0.7.1_Systeme_Vigesimal.md)
-- [Calendriers sophistiqués](00.7_Mathematiques_Mayas/0.7.2_Calendriers_Sophistiques.md)
-- [Astronomie précise](00.7_Mathematiques_Mayas/0.7.3_Astronomie_Precise.md)
-- [Architecture mathématique](00.7_Mathematiques_Mayas/0.7.4_Architecture_Mathematique.md)
 
 ### 🏛️ **Partie II : Grèce antique**
 
-#### 📐 **Chapitre 1 : Mathématiques grecques**
-- [Géométrie euclidienne](01_Mathematiques_Grecques/1.1_Geometrie_Euclidienne.md)
-- [Théorie des nombres](01_Mathematiques_Grecques/1.2_Theorie_Nombres.md)
-- [Mécanique et physique](01_Mathematiques_Grecques/1.3_Mecanique_Physique.md)
-- [Astronomie mathématique](01_Mathematiques_Grecques/1.4_Astronomie_Mathematique.md)
+#### 📐 **Chapitre 1 : Mathématiciens grecs antiques**
+- [Thalès de Milet](01_Grecs_antiques/1.1_Thales_de_Milet.md)
+- [Pythagore](01_Grecs_antiques/1.2_Pythagore.md)
+- [Euclide](01_Grecs_antiques/1.3_Euclide.md)
+- [Archimède](01_Grecs_antiques/1.4_Archimede.md)
+- [Apollonius de Perga](01_Grecs_antiques/1.5_Apollonius_de_Perga.md)
+- [Diophante](01_Grecs_antiques/1.6_Diophante.md)
+- [Exercices Thalès](01_Grecs_antiques/Exercices_Thales.md)
+- [Exercices Pythagore](01_Grecs_antiques/Exercices_Pythagore.md)
+- [Exercices Euclide](01_Grecs_antiques/Exercices_Euclide.md)
+- [Exercices Archimède](01_Grecs_antiques/Exercices_Archimede.md)
+- [Exercices Apollonius](01_Grecs_antiques/Exercices_Apollonius.md)
+- [Exercices Diophante](01_Grecs_antiques/Exercices_Diophante.md)
+
+#### 🌟 **Chapitre 1bis : Astronomie grecque**
+- [Thalès et l'astronomie](01_Astronomie_Grecque/1bis.1_Thales_astronomie.md)
+- [Pythagore et les sphères](01_Astronomie_Grecque/1bis.2_Pythagore_spheres.md)
+- [Exercices Thalès astronomie](01_Astronomie_Grecque/Exercices_Thales_astronomie.md)
+- [Exercices Pythagore sphères](01_Astronomie_Grecque/Exercices_Pythagore_spheres.md)
+
+#### 🔢 **Chapitre 1ter : Algèbre grecque**
+- [Euclide et l'algèbre géométrique](01_Algebre_Grecque/1ter.1_Euclide_algebre_geometrique.md)
+- [Diophante et l'algèbre symbolique](01_Algebre_Grecque/1ter.2_Diophante_algebre_symbolique.md)
+- [Exercices Euclide algèbre géométrique](01_Algebre_Grecque/Exercices_Euclide_algebre_geometrique.md)
 
 ### 🌍 **Partie III : Monde arabe et islamique**
 
-#### 🔢 **Chapitre 2 : Mathématiques arabes**
-- [Algèbre et équations](02_Mathematiques_Arabes/2.1_Algebre_Equations.md)
-- [Trigonométrie](02_Mathematiques_Arabes/2.2_Trigonometrie.md)
-- [Astronomie de précision](02_Mathematiques_Arabes/2.3_Astronomie_Precision.md)
-- [Géométrie analytique](02_Mathematiques_Arabes/2.4_Geometrie_Analytique.md)
+#### 🔢 **Chapitre 2 : Mathématiciens arabes**
+- [Al-Khwarizmi](03_Mathematiciens_Arabes/3.1_Al_Khwarizmi.md)
+  - [Kitab al-Jabr](03_Mathematiciens_Arabes/3.1.1_Kitab_al_Jabr.md)
+  - [Système de numération](03_Mathematiciens_Arabes/3.1.2_Systeme_Numeration.md)
+  - [Géométrie algébrique](03_Mathematiciens_Arabes/3.1.3_Geometrie_Algebrique.md)
+  - [Algorithmes](03_Mathematiciens_Arabes/3.1.4_Algorithmes.md)
+  - [Applications](03_Mathematiciens_Arabes/3.1.5_Applications.md)
+- [Omar Khayyam](03_Mathematiciens_Arabes/3.2_Omar_Khayyam.md)
+- [Al-Battani](03_Mathematiciens_Arabes/3.3_Al_Battani.md)
+- [Ibn al-Haytham](03_Mathematiciens_Arabes/3.4_Ibn_al_Haytham.md)
+- [Al-Kindi](03_Mathematiciens_Arabes/3.5_Al_Kindi.md)
 
 #### 🌌 **Chapitre 2bis : Cosmologie mathématique**
 - [Cosmologie égyptienne](02_Cosmologie_Mathematique/2bis.1_Cosmologie_Egyptienne.md)
@@ -57,20 +91,28 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 - [Cosmologie chinoise](02_Cosmologie_Mathematique/2bis.5_Cosmologie_Chinoise.md)
 - [Cosmologie européenne](02_Cosmologie_Mathematique/2bis.6_Cosmologie_Europeenne.md)
 - [Cosmologie moderne](02_Cosmologie_Mathematique/2bis.7_Cosmologie_Moderne.md)
+- [Exercices cosmologie chinoise](02_Cosmologie_Mathematique/Exercices_Cosmologie_Chinoise.md)
+- [Exercices cosmologie européenne](02_Cosmologie_Mathematique/Exercices_Cosmologie_Europeenne.md)
 
 ### 🌏 **Partie IV : Civilisations asiatiques**
 
-#### 🧮 **Chapitre 3 : Mathématiques indiennes**
-- [Système décimal](03_Mathematiques_Indiennes/3.1_Systeme_Decimal.md)
-- [Algèbre indienne](03_Mathematiques_Indiennes/3.2_Algebre_Indienne.md)
-- [Trigonométrie indienne](03_Mathematiques_Indiennes/3.3_Trigonometrie_Indienne.md)
-- [Astronomie indienne](03_Mathematiques_Indiennes/3.4_Astronomie_Indienne.md)
+#### 🧮 **Chapitre 2 : Mathématiciens indiens**
+- [Aryabhata](02_Mathematiciens_Indiens/2.1_Aryabhata.md)
+- [Brahmagupta](02_Mathematiciens_Indiens/2.2_Brahmagupta.md)
+  - [Invention du zéro](02_Mathematiciens_Indiens/2.2.1_Invention_du_zero.md)
+  - [Brahmasphutasiddhanta](02_Mathematiciens_Indiens/2.2.2_Brahmasphutasiddhanta.md)
+- [Bhaskara I](02_Mathematiciens_Indiens/2.3_Bhaskara_I.md)
+- [Bhaskara II](02_Mathematiciens_Indiens/2.4_Bhaskara_II.md)
+- [Ramanujan](02_Mathematiciens_Indiens/2.5_Ramanujan.md)
 
-#### 🎋 **Chapitre 4 : Mathématiques chinoises**
-- [Système de numération](04_Mathematiques_Chinoises/4.1_Systeme_Numeration.md)
-- [Algèbre chinoise](04_Mathematiques_Chinoises/4.2_Algebre_Chinoise.md)
-- [Géométrie chinoise](04_Mathematiques_Chinoises/4.3_Geometrie_Chinoise.md)
-- [Astronomie chinoise](04_Mathematiques_Chinoises/4.4_Astronomie_Chinoise.md)
+#### 🎋 **Chapitre 6 : Mathématiques chinoises**
+- [Zhou Bi Suan Jing](06_Mathematiques_Chinoises/6.1_Zhou_Bi_Suan_Jing.md)
+- [Jiu Zhang Suan Shu](06_Mathematiques_Chinoises/6.2_Jiu_Zhang_Suan_Shu.md)
+- [Liu Hui](06_Mathematiques_Chinoises/6.3_Liu_Hui.md)
+- [Exercices Zhou Bi](06_Mathematiques_Chinoises/Exercices_Zhou_Bi.md)
+- [Exercices Jiu Zhang](06_Mathematiques_Chinoises/Exercices_Jiu_Zhang.md)
+- [Exercices Liu Hui](06_Mathematiques_Chinoises/Exercices_Liu_Hui.md)
+- [Exercices chinois](06_Mathematiques_Chinoises/Exercices_Chinois.md)
 
 #### 🏯 **Chapitre 6.5 : Mathématiques japonaises**
 - [Sangaku : Problèmes géométriques](06.5_Mathematiques_Japonaises/6.5.1_Sangaku_Problemes_Geometriques.md)
@@ -78,19 +120,27 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 - [Seki Kowa : Déterminants et algèbre](06.5_Mathematiques_Japonaises/6.5.3_Seki_Kowa_Determinants_Algebre.md)
 - [Transmission : Influence chinoise](06.5_Mathematiques_Japonaises/6.5.4_Transmission_Influence_Chinoise.md)
 - [Héritage japonais](06.5_Mathematiques_Japonaises/6.5.5_Heritage_Japonais.md)
+- [Exercices Sangaku](06.5_Mathematiques_Japonaises/Exercices_Sangaku.md)
+- [Exercices Wasan](06.5_Mathematiques_Japonaises/Exercices_Wasan.md)
+- [Exercices Seki Kowa](06.5_Mathematiques_Japonaises/Exercices_Seki_Kowa.md)
 
 ### 🌍 **Partie V : Renaissance européenne**
 
+#### 👨‍🎓 **Chapitre 4 : Mathématiciens européens**
+- [Fibonacci](04_Mathematiciens_Europeens/4.1_Fibonacci.md)
+- [Tartaglia](04_Mathematiciens_Europeens/4.2_Tartaglia.md)
+- [Cardano](04_Mathematiciens_Europeens/4.3_Cardano.md)
+- [Descartes](04_Mathematiciens_Europeens/4.4_Descartes.md)
+- [Viète](04_Mathematiciens_Europeens/4.5_Viete.md)
+- [Kepler](04_Mathematiciens_Europeens/4.6_Kepler.md)
+
 #### 👨‍🎓 **Chapitre 5 : Mathématiciens modernes**
-- [Isaac Newton : Calcul infinitésimal](05_Mathematiciens_modernes/5.1_Newton.md)
-- [Leonhard Euler : Notation moderne](05_Mathematiciens_modernes/5.2_Euler.md)
-- [Carl Friedrich Gauss : Prince des mathématiciens](05_Mathematiciens_modernes/5.3_Gauss.md)
-- [Évariste Galois : Théorie des groupes](05_Mathematiciens_modernes/5.4_Galois.md)
-- [Pierre-Simon Laplace : Probabilités](05_Mathematiciens_modernes/5.5_Laplace.md)
-- [Joseph-Louis Lagrange : Mécanique analytique](05_Mathematiciens_modernes/5.6_Lagrange.md)
-- [René Descartes : Géométrie analytique](05_Mathematiciens_modernes/5.7_Descartes.md)
-- [François Viète : Algèbre littérale](05_Mathematiciens_modernes/5.8_Viete.md)
-- [Johannes Kepler : Lois planétaires](05_Mathematiciens_modernes/5.9_Kepler.md)
+- [Isaac Newton : Calcul infinitésimal](05_Mathematiciens_Modernes/5.1_Newton.md)
+- [Leonhard Euler : Notation moderne](05_Mathematiciens_Modernes/5.2_Euler.md)
+- [Carl Friedrich Gauss : Prince des mathématiciens](05_Mathematiciens_Modernes/5.3_Gauss.md)
+- [Évariste Galois : Théorie des groupes](05_Mathematiciens_Modernes/5.4_Galois.md)
+- [Pierre-Simon Laplace : Probabilités](05_Mathematiciens_Modernes/5.5_Laplace.md)
+- [Joseph-Louis Lagrange : Mécanique analytique](05_Mathematiciens_Modernes/5.6_Lagrange.md)
 
 ### 🔗 **Partie VI : Sections transversales**
 
@@ -116,13 +166,28 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 - [Cryptographie historique](Sections_Transversales/S4.1_Applications_Modernes/Cryptographie_Historique_Cesar_Enigma.md)
 - [Mathématiques et art](Sections_Transversales/S4.2_Applications_Modernes/Mathematiques_Art_Nombre_Or_Perspective_Fractales.md)
 
-### 📖 **Partie VII : Ressources et exercices**
+### 📖 **Partie VII : Ressources et annexes**
 
 #### 📝 **Chapitre 7 : Annexes**
 - [Solutions des exercices](07_Annexes.md)
-- [Bibliographie](07_Annexes.md#bibliographie)
-- [Glossaire](07_Annexes.md#glossaire)
-- [Index des mathématiciens](07_Annexes.md#index-des-mathématiciens)
+
+#### 📊 **Chapitre 8 : Théorèmes et formules**
+- [Théorèmes et formules](08_Theoremes_et_Formules.md)
+
+#### 📅 **Chapitre 9 : Frise chronologique**
+- [Frise chronologique](09_Frise_Chronologique.md)
+
+#### 📚 **Chapitre 10 : Glossaire**
+- [Glossaire](10_Glossaire.md)
+
+#### 🧩 **Chapitre 11 : Quiz et exercices avancés**
+- [Quiz et exercices avancés](11_Quiz_et_Exercices_Avances.md)
+
+#### 📊 **Chapitre 12 : Diagrammes et illustrations**
+- [Diagrammes et illustrations](12_Diagrammes_et_Illustrations.md)
+
+#### 📖 **Document principal**
+- [Quatre mille ans de mathématiques](Quatre_mille_ans_de_mathematiques.md)
 
 ## 🚀 Installation et utilisation
 
@@ -174,12 +239,14 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 
 ## 📊 Statistiques du projet
 
-- **📁 Chapitres principaux** : 15+
+- **📁 Chapitres principaux** : 25+
 - **📄 Sections transversales** : 16+
-- **👨‍🎓 Mathématiciens couverts** : 25+
+- **👨‍🎓 Mathématiciens couverts** : 35+
 - **🏛️ Civilisations étudiées** : 8+
-- **📝 Exercices** : 200+
-- **📚 Pages de contenu** : 500+
+- **📝 Exercices** : 300+
+- **📚 Pages de contenu** : 800+
+- **📄 Fichiers Markdown** : 130+
+- **🔗 Liens internes** : 500+
 
 ## 🎯 Fonctionnalités
 
