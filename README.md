@@ -74,6 +74,9 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 - [Mathématiques ottomanes](07_Civilisations_Medievales/07.3_Mathematiques_Ottomanes/README.md)
 - [Mathématiques andalouses](07_Civilisations_Medievales/07.4_Mathematiques_Andalouses/README.md)
 
+#### 🎵 **Chapitre 08 : Mathématiques musicales**
+- [Tempérament et harmonie](08_Mathematiques_Musicales/README.md)
+
 ### 🏛️ **Partie II : Grèce antique**
 
 #### 📐 **Chapitre 1 : Mathématiciens grecs antiques**
@@ -198,6 +201,12 @@ Ce projet présente une **exploration approfondie et pédagogique** de l'histoir
 - [Cryptographie historique](Sections_Transversales/S4.1_Applications_Modernes/Cryptographie_Historique_Cesar_Enigma.md)
 - [Mathématiques et art](Sections_Transversales/S4.2_Applications_Modernes/Mathematiques_Art_Nombre_Or_Perspective_Fractales.md)
 
+#### 🤔 **S5 : Mathématiques et philosophie**
+- [Platonisme et mathématiques](Sections_Transversales/S5_Mathematiques_Philosophie/README.md)
+
+#### 🏥 **S6 : Mathématiques et médecine**
+- [Anatomie, épidémiologie, imagerie](Sections_Transversales/S6_Mathematiques_Medecine/README.md)
+
 ### 📖 **Partie VII : Ressources et annexes**
 
 #### 📝 **Chapitre 7 : Annexes**
@@ -271,14 +280,14 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 
 ## 📊 Statistiques du projet
 
-- **📁 Chapitres principaux** : 40+
-- **📄 Sections transversales** : 16+
-- **👨‍🎓 Mathématiciens couverts** : 50+
-- **🏛️ Civilisations étudiées** : 20+
-- **📝 Exercices** : 600+
-- **📚 Pages de contenu** : 1500+
-- **📄 Fichiers Markdown** : 200+
-- **🔗 Liens internes** : 800+
+- **📁 Chapitres principaux** : 45+
+- **📄 Sections transversales** : 20+
+- **👨‍🎓 Mathématiciens couverts** : 55+
+- **🏛️ Civilisations étudiées** : 22+
+- **📝 Exercices** : 700+
+- **📚 Pages de contenu** : 1800+
+- **📄 Fichiers Markdown** : 220+
+- **🔗 Liens internes** : 900+
 
 ## 🎯 Fonctionnalités
 
