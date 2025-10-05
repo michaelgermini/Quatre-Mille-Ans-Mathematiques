@@ -62,6 +62,7 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [Astronomie et calendaires](00_Mathematiques_Egyptiennes/0.5_Astronomie_Calendaires.md)
 - [Nombre d'or](00_Mathematiques_Egyptiennes/0.6_Nombre_d_Or.md)
 - [Papyrus Kahun - Problèmes médicaux et mathématiques](00_Mathematiques_Egyptiennes/0.7_Papyrus_Kahun_Medecine_Mathematiques.md)
+- [Papyrus Berlin 6619 - Géométrie et arpentage](00_Mathematiques_Egyptiennes/0.8_Papyrus_Berlin_6619.md)
 - [Comparaison moderne](00_Mathematiques_Egyptiennes/Comparaison_Moderne.md)
 - [Exercices égyptiens](00_Mathematiques_Egyptiennes/Exercices_Egyptiens.md)
 - [Exercices nombre d'or](00_Mathematiques_Egyptiennes/Exercices_Nombre_d_Or.md)
