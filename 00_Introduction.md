@@ -41,9 +41,9 @@ Cette approche pédagogique permet de comprendre non seulement ce qu'ils ont dé
 ## Navigation dans le livre
 
 - [Chapitre 1 : Les Grecs antiques](01_Grecs_antiques/README.md)
-- [Chapitre 2 : Les mathématiciens indiens](02_Mathematiciens_indiens/README.md)
-- [Chapitre 3 : Les mathématiciens arabes](03_Mathematiciens_arabes/README.md)
-- [Chapitre 4 : Les mathématiciens européens](04_Mathematiciens_europeens/README.md)
-- [Chapitre 5 : Mathématiciens européens modernes](05_Mathematiciens_modernes/README.md)
+- [Chapitre 2 : Les mathématiciens indiens](02_Mathematiciens_Indiens/README.md)
+- [Chapitre 3 : Les mathématiciens arabes](03_Mathematiciens_Arabes/README.md)
+- [Chapitre 4 : Les mathématiciens européens](04_Mathematiciens_Europeens/README.md)
+- [Chapitre 5 : Mathématiciens modernes](05_Mathematiciens_Modernes/README.md)
 - [Conclusion](06_Conclusion.md)
 - [Annexes](07_Annexes.md)

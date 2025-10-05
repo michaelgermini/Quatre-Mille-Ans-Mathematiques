@@ -18,7 +18,21 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - **🔗 Transversal** : Explorer les connexions et influences entre cultures et époques
 - **🎓 Éducatif** : Proposer exercices, quiz et applications pratiques
 
-## 📋 Table des matières
+## 🧭 Navigation dans le livre
+
+### 📚 **Navigation principale**
+- [📖 Introduction](00_Introduction.md)
+- [🏛️ Chapitre 1 : Les Grecs antiques](01_Grecs_antiques/README.md)
+- [🧮 Chapitre 2 : Les mathématiciens indiens](02_Mathematiciens_Indiens/README.md)
+- [🔢 Chapitre 3 : Les mathématiciens arabes](03_Mathematiciens_Arabes/README.md)
+- [👨‍🎓 Chapitre 4 : Les mathématiciens européens](04_Mathematiciens_Europeens/README.md)
+- [🚀 Chapitre 5 : Mathématiciens modernes](05_Mathematiciens_Modernes/README.md)
+- [📄 Conclusion](06_Conclusion.md)
+- [📝 Annexes](07_Annexes.md)
+
+---
+
+## 📋 Table des matières détaillées
 
 ### 📖 **Introduction**
 - [Introduction générale](00_Introduction.md)
@@ -397,6 +411,8 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **GitHub Issues** : [Ouvrir une issue](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/issues)
 - **Discussions** : [Rejoindre la discussion](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/discussions)
 - **Email** : [michael@germini.info](mailto:michael@germini.info)
+- **Guide de contribution** : [CONTRIBUTING.md](CONTRIBUTING.md)
+- **Guide d'upload** : [GUIDE_UPLOAD.md](GUIDE_UPLOAD.md)
 
 ## 🌟 Support
 
@@ -407,6 +423,25 @@ Si ce projet vous a aidé, n'hésitez pas à :
 - 📢 **Partager** avec d'autres
 - 💬 **Contribuer** aux discussions
 - 🐛 **Signaler** les bugs
+
+## 🧭 Navigation rapide
+
+### 📚 **Retour à la navigation principale**
+- [📖 Introduction](00_Introduction.md)
+- [🏛️ Chapitre 1 : Les Grecs antiques](01_Grecs_antiques/README.md)
+- [🧮 Chapitre 2 : Les mathématiciens indiens](02_Mathematiciens_Indiens/README.md)
+- [🔢 Chapitre 3 : Les mathématiciens arabes](03_Mathematiciens_Arabes/README.md)
+- [👨‍🎓 Chapitre 4 : Les mathématiciens européens](04_Mathematiciens_Europeens/README.md)
+- [🚀 Chapitre 5 : Mathématiciens modernes](05_Mathematiciens_Modernes/README.md)
+- [📄 Conclusion](06_Conclusion.md)
+- [📝 Annexes](07_Annexes.md)
+
+### 🔗 **Ressources utiles**
+- [📊 Théorèmes et formules](08_Theoremes_et_Formules.md)
+- [📅 Frise chronologique](09_Frise_Chronologique.md)
+- [📚 Glossaire](10_Glossaire.md)
+- [🧩 Quiz et exercices avancés](11_Quiz_et_Exercices_Avances.md)
+- [📊 Diagrammes et illustrations](12_Diagrammes_et_Illustrations.md)
 
 ---
 
