@@ -13,6 +13,7 @@ Les mathématiques égyptiennes constituent le premier système mathématique or
 - [0.6 Le nombre d'or](0.6_Nombre_d_Or.md)
 - [0.7 Papyrus Kahun - Problèmes médicaux et mathématiques](0.7_Papyrus_Kahun_Medecine_Mathematiques.md)
 - [0.8 Papyrus Berlin 6619 - Géométrie et arpentage](0.8_Papyrus_Berlin_6619.md)
+- [0.9 Papyrus Reisner - Comptabilité et calculs administratifs](0.9_Papyrus_Reisner.md)
 
 ## Ressources supplémentaires
 
@@ -40,6 +41,7 @@ Chaque section examine :
 - **Calculs astronomiques** pour le calendrier et l'agriculture
 - **Calculs médicaux** pour les dosages et préparations pharmaceutiques
 - **Techniques d'arpentage** pour la mesure et le calcul des terres
+- **Systèmes de comptabilité** pour la gestion administrative
 - **Méthodes de résolution** de problèmes concrets
 
 ## L'héritage égyptien
