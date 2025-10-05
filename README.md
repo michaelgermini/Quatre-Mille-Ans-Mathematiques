@@ -68,16 +68,21 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 ### 🌍 **Chapitre 0.6 : Mathématiques africaines**
 > 📁 [Voir le dossier complet sur GitHub](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/tree/main/00.6_Mathematiques_Africaines)
 
-- [Mathématiques éthiopiennes](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
-  - Système de numération éthiopien (alphabet guèze)
-  - Astronomie et calendriers
-  - Architecture et géométrie (obélisques d'Aksoum)
-  - Commerce et comptabilité
-- [Mathématiques du Mali](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md)
-  - Empire du Mali et commerce transsaharien
-  - Techniques de commerce et comptabilité
-  - Astronomie et navigation
-  - Architecture et urbanisme (Tombouctou)
+#### 🏺 **0.6.1 Mathématiques éthiopiennes**
+- [📄 Document complet](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
+  - [🔢 Système de numération éthiopien](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#système-de-numération-éthiopien) (alphabet guèze)
+  - [🌙 Astronomie et calendriers](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#astronomie-et-calendriers)
+  - [🏛️ Architecture et géométrie](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#architecture-et-géométrie) (obélisques d'Aksoum)
+  - [💰 Commerce et comptabilité](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#commerce-et-comptabilité)
+
+#### 🏰 **0.6.2 Mathématiques du Mali**
+- [📄 Document complet](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md)
+  - [🏰 Empire du Mali et commerce transsaharien](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#empire-du-mali-et-commerce-transsaharien)
+  - [📊 Techniques de commerce et comptabilité](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#techniques-de-commerce-et-comptabilité)
+  - [🌙 Astronomie et navigation](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#astronomie-et-navigation)
+  - [🏗️ Architecture et urbanisme](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#architecture-et-urbanisme) (Tombouctou)
+
+#### 📚 **Autres sections**
 - [Mathématiques orales traditionnelles](00.6_Mathematiques_Africaines/0.6.3_Mathematiques_Orales_Traditionnelles.md)
 - [Astronomie et agriculture](00.6_Mathematiques_Africaines/0.6.4_Astronomie_Agriculture.md)
 - [Exercices mathématiques africaines](00.6_Mathematiques_Africaines/Exercices_Mathematiques_Africaines.md)
@@ -455,8 +460,20 @@ Si ce projet vous a aidé, n'hésitez pas à :
 
 ### 🌍 **Sections spécialisées**
 - [🌍 Mathématiques africaines](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/tree/main/00.6_Mathematiques_Africaines)
-  - [Éthiopie : Système de numération guèze](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
-  - [Mali : Commerce transsaharien](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md)
+  
+  **🏺 Éthiopie :**
+  - [📄 Document complet](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
+  - [🔢 Système de numération éthiopien](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#système-de-numération-éthiopien)
+  - [🌙 Astronomie et calendriers](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#astronomie-et-calendriers)
+  - [🏛️ Architecture et géométrie](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#architecture-et-géométrie)
+  - [💰 Commerce et comptabilité](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md#commerce-et-comptabilité)
+  
+  **🏰 Mali :**
+  - [📄 Document complet](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md)
+  - [🏰 Empire du Mali et commerce transsaharien](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#empire-du-mali-et-commerce-transsaharien)
+  - [📊 Techniques de commerce et comptabilité](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#techniques-de-commerce-et-comptabilité)
+  - [🌙 Astronomie et navigation](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#astronomie-et-navigation)
+  - [🏗️ Architecture et urbanisme](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md#architecture-et-urbanisme)
 
 ---
 
