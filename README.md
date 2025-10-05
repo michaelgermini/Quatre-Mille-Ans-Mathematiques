@@ -54,6 +54,7 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 ## 🏛️ **PARTIE I : CIVILISATIONS ANTIQUES**
 
 ### 🏺 **Chapitre 0 : Mathématiques égyptiennes**
+- [Les premiers écrits mathématiques égyptiens : Papyrus et documents archéologiques](00_Mathematiques_Egyptiennes/0.0_Premiers_Ecrits_Papyrus.md)
 - [Papyrus Rhind](00_Mathematiques_Egyptiennes/0.1_Papyrus_Rhind.md)
 - [Papyrus Moscou](00_Mathematiques_Egyptiennes/0.2_Papyrus_Moscou.md)
 - [Système numérique](00_Mathematiques_Egyptiennes/0.3_Systeme_Numerique.md)
