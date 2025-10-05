@@ -4,6 +4,7 @@ Les mathématiques égyptiennes constituent le premier système mathématique or
 
 ## Navigation dans ce chapitre
 
+- [0.0 Les premiers écrits mathématiques égyptiens : Papyrus et documents archéologiques](0.0_Premiers_Ecrits_Papyrus.md)
 - [0.1 Le Papyrus Rhind](0.1_Papyrus_Rhind.md)
 - [0.2 Le Papyrus de Moscou](0.2_Papyrus_Moscou.md)
 - [0.3 Le système de numération égyptien](0.3_Systeme_Numerique.md)
@@ -19,12 +20,15 @@ Les mathématiques égyptiennes constituent le premier système mathématique or
 
 ## Vue d'ensemble
 
-Ce chapitre explore les contributions des mathématiciens égyptiens qui ont développé des techniques sophistiquées pour résoudre des problèmes concrets de la vie quotidienne. Chaque section examine :
+Ce chapitre explore les contributions des mathématiciens égyptiens qui ont développé des techniques sophistiquées pour résoudre des problèmes concrets de la vie quotidienne. Nous commençons par l'étude des **premiers écrits mathématiques** de l'histoire humaine, révélant l'évolution d'un système mathématique organisé sur plus de 3000 ans.
+
+Chaque section examine :
 
 - Le contexte historique et culturel
 - Les techniques de calcul développées
 - Les applications pratiques
 - L'influence sur les mathématiciens grecs
+- L'importance archéologique et documentaire
 
 ## Principales innovations égyptiennes
 
