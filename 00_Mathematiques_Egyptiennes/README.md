@@ -13,6 +13,7 @@ Les mathématiques égyptiennes constituent le premier système mathématique or
 - [0.9 Papyrus Reisner - Comptabilité et calculs administratifs](0.9_Papyrus_Reisner.md)
 
 ### **🧮 Analyse détaillée du Papyrus Rhind**
+- [0.111 La méthode d'apprentissage d'Ahmes : Le maître scribe et son école](0.111_Methode_Apprentissage_Ahmes.md)
 - [0.11 Fractions et calculs de base (Problèmes 1-6)](0.11_Fractions_Calculs_Base.md)
 - [0.12 Multiplication et division (Problèmes 7-20)](0.12_Multiplication_Division.md)
 - [0.13 Fractions et proportions (Problèmes 21-38)](0.13_Fractions_Proportions.md)
