@@ -74,7 +74,7 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [Volumes et géométrie (Problèmes 41-60)](00_Mathematiques_Egyptiennes/0.15_Volumes_Geometrie.md)
 - [Problèmes divers et tables (Problèmes 61-87)](00_Mathematiques_Egyptiennes/0.16_Problemes_Divers_Tables.md)
 
-#### 🏺 **Analyse détaillée du Papyrus de Moscou**
+#### 🏺 **Analyse détaillée du Papyrus de Moscou (25 problèmes)**
 - [Problème 1 : Calcul d'aire d'un triangle](00_Mathematiques_Egyptiennes/0.2.1_Probleme_1_Triangle.md)
 - [Problème 2 : Problème de répartition de bière](00_Mathematiques_Egyptiennes/0.2.2_Probleme_2_Repartition_Biere.md)
 - [Problème 3 : Calcul de surface d'un champ](00_Mathematiques_Egyptiennes/0.2.3_Probleme_3_Surface_Champ.md)
@@ -91,6 +91,15 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [Problème 14 : Volume d'un tronc de pyramide (le plus célèbre)](00_Mathematiques_Egyptiennes/0.2.14_Probleme_14_Volume_Tronc_Pyramide.md)
 - [Problème 15 : Volume d'un parallélépipède](00_Mathematiques_Egyptiennes/0.2.15_Probleme_15_Volume_Parallelepipede.md)
 - [Problème 16 : Calcul de surface d'un hémisphère](00_Mathematiques_Egyptiennes/0.2.16_Probleme_16_Surface_Hemisphere.md)
+- [Problème 17 : Problème de progression géométrique](00_Mathematiques_Egyptiennes/0.2.17_Probleme_17_Progression_Geometrique.md)
+- [Problème 18 : Calcul d'aire d'un secteur circulaire](00_Mathematiques_Egyptiennes/0.2.18_Probleme_18_Secteur_Circulaire.md)
+- [Problème 19 : Volume d'un tonneau (forme complexe)](00_Mathematiques_Egyptiennes/0.2.19_Probleme_19_Volume_Tonneau.md)
+- [Problème 20 : Calcul d'aire d'un segment de parabole](00_Mathematiques_Egyptiennes/0.2.20_Probleme_20_Segment_Parabole.md)
+- [Problème 21 : Calcul de la pente d'une pyramide](00_Mathematiques_Egyptiennes/0.2.21_Probleme_21_Pente_Pyramide.md)
+- [Problème 22 : Surface d'un champ en forme d'œuf](00_Mathematiques_Egyptiennes/0.2.22_Probleme_22_Champ_Oeuf.md)
+- [Problème 23 : Volume d'une pyramide à base rectangulaire](00_Mathematiques_Egyptiennes/0.2.23_Probleme_23_Volume_Pyramide_Rectangulaire.md)
+- [Problème 24 : Calcul d'aire d'un triangle scalène](00_Mathematiques_Egyptiennes/0.2.24_Probleme_24_Triangle_Scalene.md)
+- [Problème 25 : Problème de construction (dimensionnement de blocs)](00_Mathematiques_Egyptiennes/0.2.25_Probleme_25_Construction_Blocs.md)
 
 #### 📚 **Ressources supplémentaires**
 - [Comparaison moderne](00_Mathematiques_Egyptiennes/Comparaison_Moderne.md)
@@ -404,7 +413,7 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 - **🔗 Liens internes** : 1200+
 - **🌍 Période couverte** : 4000 ans d'histoire
 - **📖 Langues** : Français (avec références multilingues)
-- **🏺 Problèmes égyptiens détaillés** : 32+ (Papyrus Rhind + Moscou)
+- **🏺 Problèmes égyptiens détaillés** : 57+ (Papyrus Rhind + Moscou)
 
 ## 🎯 Fonctionnalités
 
