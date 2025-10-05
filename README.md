@@ -74,6 +74,24 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [Volumes et géométrie (Problèmes 41-60)](00_Mathematiques_Egyptiennes/0.15_Volumes_Geometrie.md)
 - [Problèmes divers et tables (Problèmes 61-87)](00_Mathematiques_Egyptiennes/0.16_Problemes_Divers_Tables.md)
 
+#### 🏺 **Analyse détaillée du Papyrus de Moscou**
+- [Problème 1 : Calcul d'aire d'un triangle](00_Mathematiques_Egyptiennes/0.2.1_Probleme_1_Triangle.md)
+- [Problème 2 : Problème de répartition de bière](00_Mathematiques_Egyptiennes/0.2.2_Probleme_2_Repartition_Biere.md)
+- [Problème 3 : Calcul de surface d'un champ](00_Mathematiques_Egyptiennes/0.2.3_Probleme_3_Surface_Champ.md)
+- [Problème 4 : Division de pains](00_Mathematiques_Egyptiennes/0.2.4_Probleme_4_Division_Pains.md)
+- [Problème 5 : Problème de travail (nombre d'ouvriers)](00_Mathematiques_Egyptiennes/0.2.5_Probleme_5_Travail_Ouvriers.md)
+- [Problème 6 : Calcul d'impôt sur le grain](00_Mathematiques_Egyptiennes/0.2.6_Probleme_6_Impot_Grain.md)
+- [Problème 7 : Calcul d'aire d'un trapèze](00_Mathematiques_Egyptiennes/0.2.7_Probleme_7_Aire_Trapeze.md)
+- [Problème 8 : Surface d'un champ irrégulier](00_Mathematiques_Egyptiennes/0.2.8_Probleme_8_Champ_Irregulier.md)
+- [Problème 9 : Calcul d'aire d'un triangle isocèle](00_Mathematiques_Egyptiennes/0.2.9_Probleme_9_Triangle_Isoceles.md)
+- [Problème 10 : Surface d'un champ en forme de demi-cercle](00_Mathematiques_Egyptiennes/0.2.10_Probleme_10_Demi_Cercle.md)
+- [Problème 11 : Volume d'un cylindre](00_Mathematiques_Egyptiennes/0.2.11_Probleme_11_Volume_Cylindre.md)
+- [Problème 12 : Volume d'une pyramide tronquée](00_Mathematiques_Egyptiennes/0.2.12_Probleme_12_Volume_Pyramide_Tronquee.md)
+- [Problème 13 : Volume d'un cône](00_Mathematiques_Egyptiennes/0.2.13_Probleme_13_Volume_Cone.md)
+- [Problème 14 : Volume d'un tronc de pyramide (le plus célèbre)](00_Mathematiques_Egyptiennes/0.2.14_Probleme_14_Volume_Tronc_Pyramide.md)
+- [Problème 15 : Volume d'un parallélépipède](00_Mathematiques_Egyptiennes/0.2.15_Probleme_15_Volume_Parallelepipede.md)
+- [Problème 16 : Calcul de surface d'un hémisphère](00_Mathematiques_Egyptiennes/0.2.16_Probleme_16_Surface_Hemisphere.md)
+
 #### 📚 **Ressources supplémentaires**
 - [Comparaison moderne](00_Mathematiques_Egyptiennes/Comparaison_Moderne.md)
 - [Exercices égyptiens](00_Mathematiques_Egyptiennes/Exercices_Egyptiens.md)
@@ -376,16 +394,17 @@ Nous accueillons les contributions ! Consultez notre [guide de contribution](CON
 
 ## 📊 Statistiques du projet
 
-- **📁 Chapitres principaux** : 60+
+- **📁 Chapitres principaux** : 80+
 - **📄 Sections transversales** : 28+
 - **👨‍🎓 Mathématiciens couverts** : 70+
 - **🏛️ Civilisations étudiées** : 25+
-- **📝 Exercices** : 800+
-- **📚 Pages de contenu** : 2000+
-- **📄 Fichiers Markdown** : 250+
-- **🔗 Liens internes** : 1000+
+- **📝 Exercices** : 1000+
+- **📚 Pages de contenu** : 2500+
+- **📄 Fichiers Markdown** : 280+
+- **🔗 Liens internes** : 1200+
 - **🌍 Période couverte** : 4000 ans d'histoire
 - **📖 Langues** : Français (avec références multilingues)
+- **🏺 Problèmes égyptiens détaillés** : 32+ (Papyrus Rhind + Moscou)
 
 ## 🎯 Fonctionnalités
 
