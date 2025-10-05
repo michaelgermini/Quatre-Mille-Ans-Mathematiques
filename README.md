@@ -64,6 +64,17 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [Papyrus Kahun - Problèmes médicaux et mathématiques](00_Mathematiques_Egyptiennes/0.7_Papyrus_Kahun_Medecine_Mathematiques.md)
 - [Papyrus Berlin 6619 - Géométrie et arpentage](00_Mathematiques_Egyptiennes/0.8_Papyrus_Berlin_6619.md)
 - [Papyrus Reisner - Comptabilité et calculs administratifs](00_Mathematiques_Egyptiennes/0.9_Papyrus_Reisner.md)
+
+#### 📜 **Analyse détaillée du Papyrus Rhind**
+- [La méthode d'apprentissage d'Ahmes : Le maître scribe et son école](00_Mathematiques_Egyptiennes/0.111_Methode_Apprentissage_Ahmes.md)
+- [Fractions et calculs de base (Problèmes 1-6)](00_Mathematiques_Egyptiennes/0.11_Fractions_Calculs_Base.md)
+- [Multiplication et division (Problèmes 7-20)](00_Mathematiques_Egyptiennes/0.12_Multiplication_Division.md)
+- [Fractions et proportions (Problèmes 21-38)](00_Mathematiques_Egyptiennes/0.13_Fractions_Proportions.md)
+- [Calculs d'aires (Problèmes 39-40)](00_Mathematiques_Egyptiennes/0.14_Calculs_Aires.md)
+- [Volumes et géométrie (Problèmes 41-60)](00_Mathematiques_Egyptiennes/0.15_Volumes_Geometrie.md)
+- [Problèmes divers et tables (Problèmes 61-87)](00_Mathematiques_Egyptiennes/0.16_Problemes_Divers_Tables.md)
+
+#### 📚 **Ressources supplémentaires**
 - [Comparaison moderne](00_Mathematiques_Egyptiennes/Comparaison_Moderne.md)
 - [Exercices égyptiens](00_Mathematiques_Egyptiennes/Exercices_Egyptiens.md)
 - [Exercices nombre d'or](00_Mathematiques_Egyptiennes/Exercices_Nombre_d_Or.md)
