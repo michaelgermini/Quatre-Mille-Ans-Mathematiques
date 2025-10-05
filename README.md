@@ -66,8 +66,18 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [Navigation et astronomie](00.5_Mathematiques_Vikings/0.5.1_Navigation_Astronomie.md)
 
 ### 🌍 **Chapitre 0.6 : Mathématiques africaines**
+> 📁 [Voir le dossier complet sur GitHub](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/tree/main/00.6_Mathematiques_Africaines)
+
 - [Mathématiques éthiopiennes](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
+  - Système de numération éthiopien (alphabet guèze)
+  - Astronomie et calendriers
+  - Architecture et géométrie (obélisques d'Aksoum)
+  - Commerce et comptabilité
 - [Mathématiques du Mali](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md)
+  - Empire du Mali et commerce transsaharien
+  - Techniques de commerce et comptabilité
+  - Astronomie et navigation
+  - Architecture et urbanisme (Tombouctou)
 - [Mathématiques orales traditionnelles](00.6_Mathematiques_Africaines/0.6.3_Mathematiques_Orales_Traditionnelles.md)
 - [Astronomie et agriculture](00.6_Mathematiques_Africaines/0.6.4_Astronomie_Agriculture.md)
 - [Exercices mathématiques africaines](00.6_Mathematiques_Africaines/Exercices_Mathematiques_Africaines.md)
@@ -442,6 +452,11 @@ Si ce projet vous a aidé, n'hésitez pas à :
 - [📚 Glossaire](10_Glossaire.md)
 - [🧩 Quiz et exercices avancés](11_Quiz_et_Exercices_Avances.md)
 - [📊 Diagrammes et illustrations](12_Diagrammes_et_Illustrations.md)
+
+### 🌍 **Sections spécialisées**
+- [🌍 Mathématiques africaines](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/tree/main/00.6_Mathematiques_Africaines)
+  - [Éthiopie : Système de numération guèze](00.6_Mathematiques_Africaines/0.6.1_Mathematiques_Ethiopiennes.md)
+  - [Mali : Commerce transsaharien](00.6_Mathematiques_Africaines/0.6.2_Mathematiques_Mali.md)
 
 ---
 
