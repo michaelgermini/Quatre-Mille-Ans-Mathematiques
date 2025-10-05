@@ -69,6 +69,24 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
   - [Bernhard Riemann](05_Mathematiciens_Modernes/5.7_Bernhard_Riemann.md)
   - [Emmy Noether](05_Mathematiciens_Modernes/5.8_Emmy_Noether.md)
 
+### 📝 **Mathématiciens à ajouter (en développement)**
+> *Cette section liste les mathématiciens importants qui seront ajoutés au projet*
+
+**🏛️ Grecs antiques manquants :**
+- Hippocrate de Chios, Eudoxe de Cnide, Aristote, Eratosthène, Hipparque, Ptolémée
+
+**🧮 Mathématiciens indiens manquants :**
+- Varahamihira, Mahavira, Sridhara, Madhava de Sangamagrama
+
+**🔢 Mathématiciens arabes manquants :**
+- Al-Biruni, Al-Kashi, Ibn Sina (Avicenne), Nasir al-Din al-Tusi
+
+**👨‍🎓 Mathématiciens européens manquants :**
+- Copernic, Galilée, Huygens, Leibniz, Bernoulli (famille), D'Alembert
+
+**🚀 Mathématiciens modernes manquants :**
+- Cantor, Poincaré, Hilbert, Russell, Von Neumann, Turing
+
 ---
 
 ## 📋 Table des matières détaillées
@@ -503,6 +521,9 @@ Si ce projet vous a aidé, n'hésitez pas à :
 - [🔢 **Mathématiciens arabes**](03_Mathematiciens_Arabes/README.md) : Al-Khwarizmi, Omar Khayyam, Al-Battani, Ibn al-Haytham, Al-Kindi
 - [👨‍🎓 **Mathématiciens européens**](04_Mathematiciens_Europeens/README.md) : Fibonacci, Tartaglia, Cardano, Descartes, Viète, Kepler, Pascal, Fermat
 - [🚀 **Mathématiciens modernes**](05_Mathematiciens_Modernes/README.md) : Newton, Euler, Gauss, Galois, Laplace, Lagrange, Riemann, Emmy Noether
+
+### 📝 **Mathématiciens à ajouter**
+> *En développement : Hippocrate, Eudoxe, Aristote, Eratosthène, Ptolémée, Al-Biruni, Leibniz, Bernoulli, Cantor, Poincaré, Hilbert, Turing, et bien d'autres...*
 
 ### 🌍 **Sections spécialisées**
 - [🌍 Mathématiques africaines](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/tree/main/00.6_Mathematiques_Africaines)
