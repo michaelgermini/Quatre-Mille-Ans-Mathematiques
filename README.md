@@ -31,72 +31,14 @@ Ce projet présente une **exploration exhaustive et pédagogique** de l'histoire
 - [📝 Annexes](07_Annexes.md)
 
 ### 👨‍🎓 **Voir des mathématiciens**
-- [🏛️ **Grecs antiques**](01_Grecs_antiques/README.md)
-  - [Thalès de Milet](01_Grecs_antiques/1.1_Thales_de_Milet.md)
-  - [Pythagore](01_Grecs_antiques/1.2_Pythagore.md)
-  - [Euclide](01_Grecs_antiques/1.3_Euclide.md)
-  - [Archimède](01_Grecs_antiques/1.4_Archimede.md)
-  - [Apollonius de Perga](01_Grecs_antiques/1.5_Apollonius_de_Perga.md)
-  - [Diophante](01_Grecs_antiques/1.6_Diophante.md)
-  - [Hippocrate de Chios](01_Grecs_antiques/1.7_Hippocrate_de_Chios.md)
-  - [Eudoxe de Cnide](01_Grecs_antiques/1.8_Eudoxe_de_Cnide.md)
-  - [Aristote](01_Grecs_antiques/1.9_Aristote.md)
-  - [Eratosthène](01_Grecs_antiques/1.10_Eratosthene.md)
-  - [Hipparque](01_Grecs_antiques/1.11_Hipparque.md)
-  - [Ptolémée](01_Grecs_antiques/1.12_Ptolemee.md)
-- [🧮 **Mathématiciens indiens**](02_Mathematiciens_Indiens/README.md)
-  - [Aryabhata](02_Mathematiciens_Indiens/2.1_Aryabhata.md)
-  - [Brahmagupta](02_Mathematiciens_Indiens/2.2_Brahmagupta.md)
-  - [Bhaskara I](02_Mathematiciens_Indiens/2.3_Bhaskara_I.md)
-  - [Bhaskara II](02_Mathematiciens_Indiens/2.4_Bhaskara_II.md)
-  - [Ramanujan](02_Mathematiciens_Indiens/2.5_Ramanujan.md)
-  - [Varahamihira](02_Mathematiciens_Indiens/2.6_Varahamihira.md)
-  - [Mahavira](02_Mathematiciens_Indiens/2.7_Mahavira.md)
-  - [Sridhara](02_Mathematiciens_Indiens/2.8_Sridhara.md)
-  - [Madhava de Sangamagrama](02_Mathematiciens_Indiens/2.9_Madhava_de_Sangamagrama.md)
-- [🔢 **Mathématiciens arabes**](03_Mathematiciens_Arabes/README.md)
-  - [Al-Khwarizmi](03_Mathematiciens_Arabes/3.1_Al_Khwarizmi.md)
-  - [Omar Khayyam](03_Mathematiciens_Arabes/3.2_Omar_Khayyam.md)
-  - [Al-Battani](03_Mathematiciens_Arabes/3.3_Al_Battani.md)
-  - [Ibn al-Haytham](03_Mathematiciens_Arabes/3.4_Ibn_al_Haytham.md)
-  - [Al-Kindi](03_Mathematiciens_Arabes/3.5_Al_Kindi.md)
-  - [Al-Biruni](03_Mathematiciens_Arabes/3.6_Al_Biruni.md)
-  - [Al-Kashi](03_Mathematiciens_Arabes/3.7_Al_Kashi.md)
-  - [Ibn Sina (Avicenne)](03_Mathematiciens_Arabes/3.8_Ibn_Sina_Avicenne.md)
-  - [Nasir al-Din al-Tusi](03_Mathematiciens_Arabes/3.9_Nasir_al_Din_al_Tusi.md)
-- [👨‍🎓 **Mathématiciens européens**](04_Mathematiciens_Europeens/README.md)
-  - [Fibonacci](04_Mathematiciens_Europeens/4.1_Fibonacci.md)
-  - [Tartaglia](04_Mathematiciens_Europeens/4.2_Tartaglia.md)
-  - [Cardano](04_Mathematiciens_Europeens/4.3_Cardano.md)
-  - [Descartes](04_Mathematiciens_Europeens/4.4_Descartes.md)
-  - [Viète](04_Mathematiciens_Europeens/4.5_Viete.md)
-  - [Kepler](04_Mathematiciens_Europeens/4.6_Kepler.md)
-  - [Blaise Pascal](04_Mathematiciens_Europeens/4.7_Blaise_Pascal_Probabilites.md)
-  - [Pierre de Fermat](04_Mathematiciens_Europeens/4.8_Pierre_de_Fermat.md)
-  - [Copernic](04_Mathematiciens_Europeens/4.9_Copernic.md)
-  - [Galilée](04_Mathematiciens_Europeens/4.10_Galilee.md)
-  - [Huygens](04_Mathematiciens_Europeens/4.11_Huygens.md)
-  - [Leibniz](04_Mathematiciens_Europeens/4.12_Leibniz.md)
-  - [Bernoulli (famille)](04_Mathematiciens_Europeens/4.13_Bernoulli.md)
-  - [D'Alembert](04_Mathematiciens_Europeens/4.14_D_Alembert.md)
-- [🚀 **Mathématiciens modernes**](05_Mathematiciens_Modernes/README.md)
-  - [Isaac Newton](05_Mathematiciens_Modernes/5.1_Newton.md)
-  - [Leonhard Euler](05_Mathematiciens_Modernes/5.2_Euler.md)
-  - [Carl Friedrich Gauss](05_Mathematiciens_Modernes/5.3_Gauss.md)
-  - [Évariste Galois](05_Mathematiciens_Modernes/5.4_Galois.md)
-  - [Pierre-Simon Laplace](05_Mathematiciens_Modernes/5.5_Laplace.md)
-  - [Joseph-Louis Lagrange](05_Mathematiciens_Modernes/5.6_Lagrange.md)
-  - [Bernhard Riemann](05_Mathematiciens_Modernes/5.7_Bernhard_Riemann.md)
-  - [Emmy Noether](05_Mathematiciens_Modernes/5.8_Emmy_Noether.md)
-  - [Georg Cantor](05_Mathematiciens_Modernes/5.9_Cantor.md)
-  - [Henri Poincaré](05_Mathematiciens_Modernes/5.10_Poincare.md)
-  - [David Hilbert](05_Mathematiciens_Modernes/5.11_Hilbert.md)
-  - [Bertrand Russell](05_Mathematiciens_Modernes/5.12_Russell.md)
-  - [John Von Neumann](05_Mathematiciens_Modernes/5.13_Von_Neumann.md)
-  - [Alan Turing](05_Mathematiciens_Modernes/5.14_Turing.md)
+- [🏛️ **Grecs antiques**](01_Grecs_antiques/README.md) : Thalès, Pythagore, Euclide, Archimède, Apollonius, Diophante, Hippocrate, Eudoxe, Aristote, Eratosthène, Hipparque, Ptolémée
+- [🧮 **Mathématiciens indiens**](02_Mathematiciens_Indiens/README.md) : Aryabhata, Brahmagupta, Bhaskara I & II, Ramanujan, Varahamihira, Mahavira, Sridhara, Madhava
+- [🔢 **Mathématiciens arabes**](03_Mathematiciens_Arabes/README.md) : Al-Khwarizmi, Omar Khayyam, Al-Battani, Ibn al-Haytham, Al-Kindi, Al-Biruni, Al-Kashi, Ibn Sina, Al-Tusi
+- [👨‍🎓 **Mathématiciens européens**](04_Mathematiciens_Europeens/README.md) : Fibonacci, Tartaglia, Cardano, Descartes, Viète, Kepler, Pascal, Fermat, Copernic, Galilée, Huygens, Leibniz, Bernoulli, D'Alembert
+- [🚀 **Mathématiciens modernes**](05_Mathematiciens_Modernes/README.md) : Newton, Euler, Gauss, Galois, Laplace, Lagrange, Riemann, Emmy Noether, Cantor, Poincaré, Hilbert, Russell, Von Neumann, Turing
 
 ### ✅ **Tous les mathématiciens ont été ajoutés !**
-> *Le projet contient maintenant 32 mathématiciens supplémentaires avec du contenu détaillé et structuré*
+> *Le projet contient maintenant 58 mathématiciens au total avec du contenu détaillé et structuré*
 
 ---
 
@@ -497,6 +439,79 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **Guide de contribution** : [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Guide d'upload** : [GUIDE_UPLOAD.md](GUIDE_UPLOAD.md)
 
+## 👨‍🎓 **Voir des mathématiciens**
+
+### 🏛️ **Grecs antiques**
+- [Thalès de Milet](01_Grecs_antiques/1.1_Thales_de_Milet.md)
+- [Pythagore](01_Grecs_antiques/1.2_Pythagore.md)
+- [Euclide](01_Grecs_antiques/1.3_Euclide.md)
+- [Archimède](01_Grecs_antiques/1.4_Archimede.md)
+- [Apollonius de Perga](01_Grecs_antiques/1.5_Apollonius_de_Perga.md)
+- [Diophante](01_Grecs_antiques/1.6_Diophante.md)
+- [Hippocrate de Chios](01_Grecs_antiques/1.7_Hippocrate_de_Chios.md)
+- [Eudoxe de Cnide](01_Grecs_antiques/1.8_Eudoxe_de_Cnide.md)
+- [Aristote](01_Grecs_antiques/1.9_Aristote.md)
+- [Eratosthène](01_Grecs_antiques/1.10_Eratosthene.md)
+- [Hipparque](01_Grecs_antiques/1.11_Hipparque.md)
+- [Ptolémée](01_Grecs_antiques/1.12_Ptolemee.md)
+
+### 🧮 **Mathématiciens indiens**
+- [Aryabhata](02_Mathematiciens_Indiens/2.1_Aryabhata.md)
+- [Brahmagupta](02_Mathematiciens_Indiens/2.2_Brahmagupta.md)
+- [Bhaskara I](02_Mathematiciens_Indiens/2.3_Bhaskara_I.md)
+- [Bhaskara II](02_Mathematiciens_Indiens/2.4_Bhaskara_II.md)
+- [Ramanujan](02_Mathematiciens_Indiens/2.5_Ramanujan.md)
+- [Varahamihira](02_Mathematiciens_Indiens/2.6_Varahamihira.md)
+- [Mahavira](02_Mathematiciens_Indiens/2.7_Mahavira.md)
+- [Sridhara](02_Mathematiciens_Indiens/2.8_Sridhara.md)
+- [Madhava de Sangamagrama](02_Mathematiciens_Indiens/2.9_Madhava_de_Sangamagrama.md)
+
+### 🔢 **Mathématiciens arabes**
+- [Al-Khwarizmi](03_Mathematiciens_Arabes/3.1_Al_Khwarizmi.md)
+- [Omar Khayyam](03_Mathematiciens_Arabes/3.2_Omar_Khayyam.md)
+- [Al-Battani](03_Mathematiciens_Arabes/3.3_Al_Battani.md)
+- [Ibn al-Haytham](03_Mathematiciens_Arabes/3.4_Ibn_al_Haytham.md)
+- [Al-Kindi](03_Mathematiciens_Arabes/3.5_Al_Kindi.md)
+- [Al-Biruni](03_Mathematiciens_Arabes/3.6_Al_Biruni.md)
+- [Al-Kashi](03_Mathematiciens_Arabes/3.7_Al_Kashi.md)
+- [Ibn Sina (Avicenne)](03_Mathematiciens_Arabes/3.8_Ibn_Sina_Avicenne.md)
+- [Nasir al-Din al-Tusi](03_Mathematiciens_Arabes/3.9_Nasir_al_Din_al_Tusi.md)
+
+### 👨‍🎓 **Mathématiciens européens**
+- [Fibonacci](04_Mathematiciens_Europeens/4.1_Fibonacci.md)
+- [Tartaglia](04_Mathematiciens_Europeens/4.2_Tartaglia.md)
+- [Cardano](04_Mathematiciens_Europeens/4.3_Cardano.md)
+- [Descartes](04_Mathematiciens_Europeens/4.4_Descartes.md)
+- [Viète](04_Mathematiciens_Europeens/4.5_Viete.md)
+- [Kepler](04_Mathematiciens_Europeens/4.6_Kepler.md)
+- [Blaise Pascal](04_Mathematiciens_Europeens/4.7_Blaise_Pascal_Probabilites.md)
+- [Pierre de Fermat](04_Mathematiciens_Europeens/4.8_Pierre_de_Fermat.md)
+- [Copernic](04_Mathematiciens_Europeens/4.9_Copernic.md)
+- [Galilée](04_Mathematiciens_Europeens/4.10_Galilee.md)
+- [Huygens](04_Mathematiciens_Europeens/4.11_Huygens.md)
+- [Leibniz](04_Mathematiciens_Europeens/4.12_Leibniz.md)
+- [Bernoulli (famille)](04_Mathematiciens_Europeens/4.13_Bernoulli.md)
+- [D'Alembert](04_Mathematiciens_Europeens/4.14_D_Alembert.md)
+
+### 🚀 **Mathématiciens modernes**
+- [Isaac Newton](05_Mathematiciens_Modernes/5.1_Newton.md)
+- [Leonhard Euler](05_Mathematiciens_Modernes/5.2_Euler.md)
+- [Carl Friedrich Gauss](05_Mathematiciens_Modernes/5.3_Gauss.md)
+- [Évariste Galois](05_Mathematiciens_Modernes/5.4_Galois.md)
+- [Pierre-Simon Laplace](05_Mathematiciens_Modernes/5.5_Laplace.md)
+- [Joseph-Louis Lagrange](05_Mathematiciens_Modernes/5.6_Lagrange.md)
+- [Bernhard Riemann](05_Mathematiciens_Modernes/5.7_Bernhard_Riemann.md)
+- [Emmy Noether](05_Mathematiciens_Modernes/5.8_Emmy_Noether.md)
+- [Georg Cantor](05_Mathematiciens_Modernes/5.9_Cantor.md)
+- [Henri Poincaré](05_Mathematiciens_Modernes/5.10_Poincare.md)
+- [David Hilbert](05_Mathematiciens_Modernes/5.11_Hilbert.md)
+- [Bertrand Russell](05_Mathematiciens_Modernes/5.12_Russell.md)
+- [John Von Neumann](05_Mathematiciens_Modernes/5.13_Von_Neumann.md)
+- [Alan Turing](05_Mathematiciens_Modernes/5.14_Turing.md)
+
+### ✅ **Tous les mathématiciens ont été ajoutés !**
+> *Le projet contient maintenant 58 mathématiciens au total avec du contenu détaillé et structuré*
+
 ## 🌟 Support
 
 Si ce projet vous a aidé, n'hésitez pas à :
@@ -533,8 +548,6 @@ Si ce projet vous a aidé, n'hésitez pas à :
 - [👨‍🎓 **Mathématiciens européens**](04_Mathematiciens_Europeens/README.md) : Fibonacci, Tartaglia, Cardano, Descartes, Viète, Kepler, Pascal, Fermat
 - [🚀 **Mathématiciens modernes**](05_Mathematiciens_Modernes/README.md) : Newton, Euler, Gauss, Galois, Laplace, Lagrange, Riemann, Emmy Noether
 
-### 📝 **Mathématiciens à ajouter**
-> *En développement : Hippocrate, Eudoxe, Aristote, Eratosthène, Ptolémée, Al-Biruni, Leibniz, Bernoulli, Cantor, Poincaré, Hilbert, Turing, et bien d'autres...*
 
 ### 🌍 **Sections spécialisées**
 - [🌍 Mathématiques africaines](https://github.com/michaelgermini/Quatre-Mille-Ans-Mathematiques/tree/main/00.6_Mathematiques_Africaines)
